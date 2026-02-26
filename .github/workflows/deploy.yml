@@ -27,4 +27,8 @@ jobs:
         with:
           path: dist
 
+<<<<<<< HEAD
       - uses: actions/deploy-pages@v4
+=======
+      - uses: actions/deploy-pages@v4
+>>>>>>> 9f49fae69b2554b1e9bbfedfb0df066307ebe8d8
