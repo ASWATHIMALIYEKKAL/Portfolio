@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from 'framer-motion';
 import { Github, ExternalLink, Beaker, Globe, BrainCircuit, Microscope, Award, ArrowRight } from 'lucide-react';
 
