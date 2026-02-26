@@ -32,7 +32,7 @@ const Hero = () => {
                             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
                         </a>
                         <a
-                            href="/resume.pdf"
+                            href="resume.pdf"
                             download
                             className="px-8 py-4 glass hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl font-semibold transition-all flex items-center"
                         >
@@ -53,7 +53,7 @@ const Hero = () => {
                             <div className="absolute inset-0 bg-primary-500 blur-[60px] opacity-20 rounded-full animate-pulse"></div>
                             <div className="relative z-10 w-64 h-64 glass rounded-full overflow-hidden flex items-center justify-center border-4 border-primary-500/20 shadow-2xl">
                                 <img
-                                    src="/profile.jpeg"
+                                    src="profile.jpeg"
                                     alt="Aswathi"
                                     className="w-full h-full object-cover"
                                 />
